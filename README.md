@@ -18,7 +18,7 @@ The Hyperloop Passenger Booking System is a Java program that simulates the book
 
 The system accepts the following commands:
 
-1. **INIT** - Initializes the system with the number of routes and the starting station. The details of the routes are provided in the following lines.
+1. **INIT** - Initializes the system with the number of routes and the starting station.
 
 2. **ADD_PASSENGER** - Adds passengers to the queue. Use the `ADD_PASSENGER X` command to add X passengers, followed by X lines containing passenger details (name, age, and destination).
 
